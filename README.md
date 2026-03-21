@@ -1,2 +1,9 @@
 # simulador-trajetoria
-Simula a trajetória de um projétil lançado com ângulo e velocidade iniciais, mostrando o arco completo em um gráfico único usando Python.
+ Simulador de Trajetória de Projétil Este projeto simula a trajetória de um projétil lançado com um ângulo e velocidade iniciais informados pelo usuário. O resultado é mostrado em um gráfico único, exibindo o arco completo do projétil em uma janela. 
+
+---
+
+ ## Tecnologias utilizadas 
+ - Python 3
+ - [Matplotlib](https://matplotlib.org/) — para plotar o gráfico da trajetória - math — para cálculos trigonométricos
+  > Obs.: tkinter foi importado para futuras atualizações, mas não é usado nesta versão. ---
