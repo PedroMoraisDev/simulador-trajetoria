@@ -35,13 +35,14 @@ while y >= 0:
         break
     
 distancia = max(lista_x) 
+altura = max(lista_y)
 
 fig, ax = plt.subplots()
 ax.set_xlim(0, max(lista_x) + 10)
 ax.set_ylim(0, max(lista_y) + 10)
 ax.set_title("Trajetória do projétil")
-ax.set_ylabel('Altura')
-ax.set_xlabel(f'(Distância (m)Percorreu {distancia:.2f} metros')
+ax.set_ylabel(f'Altura (m) percorreu {altura:.2f} metros')
+ax.set_xlabel(f'(Distância (m) Percorreu {distancia:.2f} metros')
 ax.grid(True)
 
 line, = ax.plot([], [], 'b-')  
