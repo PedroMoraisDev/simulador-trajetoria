@@ -1,7 +1,7 @@
 import math
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
-import tkinter as tk
+
 
 
 angulo = float(input("Digite o ângulo: "))
@@ -33,14 +33,14 @@ while y >= 0:
     print(t, x, y)
     if y == 0:
         break
-
+    
 distancia = max(lista_x) 
 
 fig, ax = plt.subplots()
 ax.set_xlim(0, max(lista_x) + 10)
 ax.set_ylim(0, max(lista_y) + 10)
 ax.set_title("Trajetória do projétil")
-ax.set_ylabel("Altura (m)")
+ax.set_ylabel('Altura')
 ax.set_xlabel(f'(Distância (m)Percorreu {distancia:.2f} metros')
 ax.grid(True)
 
