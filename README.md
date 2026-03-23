@@ -1,5 +1,5 @@
 # simulador-trajetoria
- Simulador de Trajetória de Projétil Este projeto simula a trajetória de um projétil lançado com um ângulo e velocidade iniciais informados pelo usuário. O resultado é mostrado em um gráfico único, exibindo o arco completo do projétil em uma janela. 
+ Simulador de Trajetória de Projétil Este projeto simula a trajetória de um projétil lançado com um ângulo e velocidade iniciais informados pelo usuário. O resultado é mostrado em um gráfico único, exibindo o arco completo do projétil em uma janela. (meu primeiro projeto em python que lancei pro github:P)
 
 ---
 
