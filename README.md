@@ -6,4 +6,4 @@
  ## Tecnologias utilizadas 
  - Python 3
  - [Matplotlib](https://matplotlib.org/) — para plotar o gráfico da trajetória - math — para cálculos trigonométricos
-> - Tkinter passou a ser utilizado na versão .exe que ainda está em "beta" 
+> - Tkinter passou a ser utilizado na versão .exe que ainda está em "beta" (Já disponivel para download)
